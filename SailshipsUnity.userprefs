@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Bird.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Rocket.cs" Line="81" Column="1" />
+      <File FileName="Assets\Scripts\Planet.cs" Line="95" Column="45" />
+      <File FileName="Assets\Scripts\PlanetGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GravityObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraScripts\SmoothCamera2D.cs" Line="33" Column="128" />
+      <File FileName="Assets\Scripts\PerlinNoise.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Move.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NoiseCurveTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraScripts\FollowCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bird.cs" Line="30" Column="5" />
+      <File FileName="Assets\Scripts\TerrainGeneration.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Ball.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

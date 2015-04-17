@@ -1,0 +1,38 @@
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2049]
+    Renderer: NVIDIA GeForce 9500 GT
+    Vendor:   NVIDIA
+    VRAM:     1136 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.215 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+Initialize engine version: 4.3.2f1 (0517a5ae8669)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2049]
+    Renderer: NVIDIA GeForce 9500 GT
+    Vendor:   NVIDIA
+    VRAM:     1136 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\disk E\projects\SailshipsUnity\bin\Sails_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.082 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+No objects for the given player ID were deleted 1
+ 
+(Filename:  Line: 1368)
+
